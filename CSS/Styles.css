@@ -1,0 +1,45 @@
+p {
+    background-color: bisque;
+}
+
+.o_ring {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    border: 12px black solid;
+    border-radius: 100%;
+    margin: 2px;
+}
+
+.RowTop {
+    display: flex;
+    justify-content: center;
+    margin: 200px auto -60px;
+}
+
+.RowBottom {
+    display: flex;
+    justify-content: center;
+}
+
+
+.c_black {
+    border-color: black;
+}
+
+.c_red {
+    border-color: red;
+}
+
+.c_green {
+    border-color: green;
+}
+
+.c_blue {
+    border-color: blue;
+}
+
+.c_yellow {
+    border-color: yellow;
+}
